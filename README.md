@@ -17,6 +17,7 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### ML/DL
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -26,7 +27,6 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-2F5C72?style=for-the-badge&logo=python&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-006400?style=for-the-badge&logo=python&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-008080?style=for-the-badge&logo=python&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 
 ### OS
